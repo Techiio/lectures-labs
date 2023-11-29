@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="242c718f-e827-4dc5-ac76-03fae95216b0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_keras/Demo_RetinaNet.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_keras/Intro Keras.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_keras/data_download.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_keras/laptop.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_keras/solutions/classify_webcam.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_keras/solutions/grey_levels.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_keras/solutions/inception_resnet_v2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_keras/solutions/keras_accuracy_on_test_set.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_keras/solutions/keras_adam.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_keras/solutions/keras_initializations.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_keras/solutions/keras_initializations_analysis.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_keras/solutions/keras_sgd_and_momentum.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_keras/webcam_shot.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_keras/wecam_shot_scene.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02_backprop/Backpropagation_numpy.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02_backprop/Backpropagation_tensorflow.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02_backprop/solutions/keras_model.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02_backprop/solutions/keras_model_test_loss.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02_backprop/solutions/loss_predict_accuracy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02_backprop/solutions/neural_net.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02_backprop/solutions/numpy_nll.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02_backprop/solutions/sigmoid.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02_backprop/solutions/tf_model.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02_backprop/solutions/tf_squared_norm.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02_backprop/solutions/tf_train.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02_backprop/solutions/worst_predictions.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JupyterTrust" id="7f957717-49cf-46a0-857c-25854e0d274d" />
+  <component name="ProjectId" id="2Y7FJktvIbukNX5AaZMxkOSpPKW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="242c718f-e827-4dc5-ac76-03fae95216b0" name="Default Changelist" comment="" />
+      <created>1699868640877</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699868640877</updated>
+      <workItem from="1699868642535" duration="5544000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1699870780328">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1699870780328" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1699870780327">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1699870780327" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1699870780326">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1699870780326" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1699870780328">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1699870780328" />
+    <state x="277" y="55" key="SettingsEditor" timestamp="1699871198442">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1699871198442" />
+  </component>
+</project>
